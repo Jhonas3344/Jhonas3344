@@ -7,9 +7,6 @@ https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/ind
 #EXTINF:0 group-title="Canais ABERTO" tvg-name="SBT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT
 https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8?content_channel_id=12&content_livestream=1
 
-#EXTINF:0 group-title="Canais ABERTO" tvg-name="TV Jornal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Logotipo_da_TV_Jornal.png/300px-Logotipo_da_TV_Jornal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Logotipo_da_TV_Jornal.png/300px-Logotipo_da_TV_Jornal.png" ,TV Jornal
-https://d3rhmbr9yq9ljg.cloudfront.net/out/v1/4dab2f11ddef44f1ad6e39df6f31d67b/index.mpd
-
 #EXTINF:0 group-title="Canais: Jornalismo" tvg-name="CNN Brasil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNN_Brasil.svg/revision/latest/scale-to-width-down/170?cb=20200204234630" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNN_Brasil.svg/revision/latest/scale-to-width-down/170?cb=20200204234630" ,CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 

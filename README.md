@@ -199,10 +199,10 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18768
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
 
-EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais  FILMES E SERIES",AMC HD
+EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais  FILMES E SERIES",STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais  ABERTO",Globo RPC TV Maringa HD

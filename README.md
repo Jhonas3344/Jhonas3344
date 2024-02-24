@@ -198,4 +198,14 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 
 
 
+EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD "Alter]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18752
 
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18756
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18768
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761

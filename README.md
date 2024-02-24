@@ -210,3 +210,10 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
 
 
+
+
+
+
+
+
+

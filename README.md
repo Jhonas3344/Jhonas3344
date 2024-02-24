@@ -353,14 +353,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB",Comedy BBB
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB
 https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=7df34203a679ae7ad987ae6122bd0ea0565134d2-274377f3cf5f4e02ef84025d2dd1d98f-1708822939-1708815739
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB",Comedy BBB 2
-https://d31ii3fk8fd7mh.cloudfront.net/out/v1/16785ee7fe2d4f3c9b41b64056cc1273/index.mpd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 2
+https://server11.net/bbb2/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=4d7ee0b5cd0711f6aac44748e653b612a5c70f97-8e7d0d65fd9f7be1c9e9d0344a4fb143-1708823923-1708816723
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 3
+https://m3u8.day/big5/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=1711b7328c6e61f01e87c52df6aa76598f71cdc7-b5752f90fa20ff595ff53cf957727d27-1708827602-1708816802
+
+EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 4
+https://server11.net/bbbAcademia/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=75da6ed0687ec9f76ca1fbef77729af7e26656aa-a6e1c9923eede0df57f5c0cfcc7ada8f-1708824012-1708816812
 
 
-https://salamus2023.onlinehdhls.ru/ddy5/premium264/tracks-v1a1/mono.m3u8
 
 
 

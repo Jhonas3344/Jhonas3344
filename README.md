@@ -21,3 +21,46 @@ https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/in
 
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Globo Nordeste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2npQLI2Qb0JQ5bbdgIQp7i-gGEAeLafrlBQ&usqp=CAU" ,TV Globo Nordeste 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2428
+
+
+EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/491
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+https://cr7v.short.gy/manotv/PFCCLUBEHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
+https://cr7v.short.gy/manotv/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/498
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD [Alter]
+http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/506
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
+http://185.150.190.225:16472/
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 SD
+http://185.150.190.225:16476/
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alter]
+http://185.150.190.225:16482/
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523

@@ -173,11 +173,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://64.31.40.14:14056/
 
@@ -195,8 +190,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
-
-
 
 EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD "Alter]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18752

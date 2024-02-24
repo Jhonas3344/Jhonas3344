@@ -356,9 +356,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB",Comedy BBB
 https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=7df34203a679ae7ad987ae6122bd0ea0565134d2-274377f3cf5f4e02ef84025d2dd1d98f-1708822939-1708815739
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB",Comedy BBB 2
+https://d31ii3fk8fd7mh.cloudfront.net/out/v1/16785ee7fe2d4f3c9b41b64056cc1273/index.mpd
 
 
-
+https://salamus2023.onlinehdhls.ru/ddy5/premium264/tracks-v1a1/mono.m3u8
 
 
 

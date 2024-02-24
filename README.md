@@ -178,7 +178,23 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
+http://64.31.40.14:14056/
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
+http://51.83.238.223:16763/
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/634
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 
 
 

@@ -358,3 +358,6 @@ https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=7df34
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 2
 https://vod.cf.dmcdn.net/sec2(ISm3qL0FleT-06qZpGkKeTI7uGFQJm6L-yE9BAa4tnCZ1dJwgvGNDexiPzRI3a0aqXxdr9LKhw1JKkiHyJ2zzueBLgtAiMviqBsNx-QoOzD6k6lpuqL-Lt2SNBczn-mIHn4X7ScIVr29i5DgOWVzAw)/video/711/815/525518117_mp4_h264_aac_hd_1.m3u8#cell=cf
+
+
+

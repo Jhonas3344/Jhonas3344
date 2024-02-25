@@ -359,5 +359,36 @@ https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=7df34
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 2
 https://vod.cf.dmcdn.net/sec2(ISm3qL0FleT-06qZpGkKeTI7uGFQJm6L-yE9BAa4tnCZ1dJwgvGNDexiPzRI3a0aqXxdr9LKhw1JKkiHyJ2zzueBLgtAiMviqBsNx-QoOzD6k6lpuqL-Lt2SNBczn-mIHn4X7ScIVr29i5DgOWVzAw)/video/711/815/525518117_mp4_h264_aac_hd_1.m3u8#cell=cf
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg" group-title="FILMES CRIMES ",JOGADOR NÚMERO 1
+https://r2ow0e4s3p7x.enaak-cdn.com/hls2/01/00151/ozf0h64aan9u_l/index-v1-a1.m3u8?t=ym21raq7y2bPrIqqRYktpbcMmKv103gCc6uNYQ98kbA&s=1708842678&e=129600&f=758957&srv=c3rmmnexubuk&i=0.4&sp=1500&p1=c3rmmnexubuk&p2=c3rmmnexubuk&asn=263073
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tnmdUnztAYbfJ0jhjpN6oxwP2sb.jpg" group-title="FILMES CRIMES ",Avatar: O Caminho da Água
+https://lfujiproqx2.sw-cdnstream.com/hls2/01/02118/axa6i7oxfodn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=bgdHcNn2rbe51sjM6G6Sr6bS1dM7r974ok0V4bBz4CU&s=1708843127&e=129600&f=10593512&srv=wmnctvnzzldw&i=0.4&sp=500&p1=wmnctvnzzldw&p2=wmnctvnzzldw&asn=263073
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg" group-title="FILMES CRIMES ",DOUTOR ESTRANHO 
+https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02900/bf4wlc7qyawy_n/index-v1-a1.m3u8?t=noQIuietM-Z1a0mqg-4guv6PP3s5nAH-gqfNv5Vs-qs&s=1708843333&e=129600&f=14502413&srv=flazeshbhkve&i=0.4&sp=500&p1=flazeshbhkve&p2=flazeshbhkve&asn=263073
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",LOBO DE WALL STREET
+https://no6ojcmmspit.enaak-cdn.com/hls2/01/00174/216rgdva5j3t_l/index-v1-a1.m3u8?t=ChGdFDpYiPbagT84hcfP4L1ChNbYBuUWWErikZFyAZ8&s=1708843467&e=129600&f=872333&srv=j6l2fzrv73fm&i=0.4&sp=1500&p1=j6l2fzrv73fm&p2=j6l2fzrv73fm&asn=263073
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",ADÃO NEGRO 
+https://n7dcw2svfzf7.enaak-cdn.com/hls2/01/00113/prd79h97c4wb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=QmtlcA7WQwwECXNriQ0uHN5Ju1k-Vep8ofjhvF2bzUA&s=1708844357&e=129600&f=565069&srv=rm7jzcuitghm&i=0.4&sp=1500&p1=rm7jzcuitghm&p2=rm7jzcuitghm&asn=263073
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pA70WUs7KHiHltfiBN4XEELOXcS.jpg" group-title="FILMES CRIMES ",CIDADE DE DEUS
+https://togtbtzsk9xf.enaak-cdn.com/hls2/01/00171/a89zutk99aiv_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=hgKlRdTkMGjXPPbARAn09YAwVuy2BV0oOitHBm8rmiA&s=1708844624&e=129600&f=856842&srv=igcswvmzhgd5&i=0.4&sp=1500&p1=igcswvmzhgd5&p2=igcswvmzhgd5&asn=263073
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a8R6YoDhsVNVbPRvgNad3FhPjL6.jpg" group-title="FILMES CRIMES ",TROPA DE ELITE
+https://hozzcpxvnjk2.enaak-cdn.com/hls2/01/00173/pjizsvr57hpi_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kRyu0K0FISEo3wKi93z-HABbz09DQChiuj8d98z8Tvs&s=1708844891&e=129600&f=868661&srv=o2hmgl5efkfx&i=0.4&sp=1500&p1=o2hmgl5efkfx&p2=o2hmgl5efkfx&asn=263073
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",NINJA ASSASSINO 
+https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02599/bzoxftrur25s_n/index-v1-a1.m3u8?t=FsHDMYLQrjumYSw_7KbluCgJrTaXz12Gg9ig92XxuIQ&s=1708845121&e=129600&f=12995872&srv=n43sbuy6pztg&i=0.4&sp=500&p1=n43sbuy6pztg&p2=n43sbuy6pztg&asn=263073
+
+#EXTINF:-1 tvg-logo="
+https://image.tmdb.org/t/p/original/AhmIl2mWpjhbflHx2MSxaZbUVIJ.jpg" group-title="FILMES CRIMES ",O LUTADOR 2
+https://ebzbmlbdxu3ldwdw.enaak-cdn.com/hls2/01/00171/dvgg3gxuxkx4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=nrXzG0aR7gCXKkBo6BNgU6tS-kIFkt1GSbtM6ao1Atc&s=1708845221&e=129600&f=856775&srv=ejthjloje4on&i=0.4&sp=1500&p1=ejthjloje4on&p2=ejthjloje4on&asn=263073
+EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",13º Distrito
+https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/00174/mh40jjruxrl2_l/index-v1-a1.m3u8?t=TIBnDTePIC-lc_7nSMoLjmx6-rVx9Fc-pWV_ZMP9esc&s=1708845389&e=129600&f=870186&srv=zsj58h0kleij&i=0.4&sp=1500&p1=zsj58h0kleij&p2=zsj58h0kleij&asn=263073
+
+EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="FILMES CRIMES ", HORA DO RUSH
+https://lqas6jwl9y0x.enaak-cdn.com/hls2/01/00174/83drl9ebtz5j_l/index-v1-a1.m3u8?t=eEPABP_LshCavrilATCcE6jjrzJAbgElTwhqB9nwI8U&s=1708845868&e=129600&f=870787&srv=ejthjloje4on&i=0.4&sp=1500&p1=ejthjloje4on&p2=ejthjloje4on&asn=263073
 

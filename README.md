@@ -357,16 +357,4 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 https://server11.net/bbb/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=7df34203a679ae7ad987ae6122bd0ea0565134d2-274377f3cf5f4e02ef84025d2dd1d98f-1708822939-1708815739
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 2
-https://server11.net/bbb2/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=4d7ee0b5cd0711f6aac44748e653b612a5c70f97-8e7d0d65fd9f7be1c9e9d0344a4fb143-1708823923-1708816723
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 3
-https://m3u8.day/big5/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=1711b7328c6e61f01e87c52df6aa76598f71cdc7-b5752f90fa20ff595ff53cf957727d27-1708827602-1708816802
-
-EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Canais | BBB", BBB 4
-https://server11.net/bbbAcademia/tracks-v1a1/mono.m3u8?remote=186.224.28.226&token=75da6ed0687ec9f76ca1fbef77729af7e26656aa-a6e1c9923eede0df57f5c0cfcc7ada8f-1708824012-1708816812
-
-
-
-
-
-
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/281/281-3-main.m3u8

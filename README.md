@@ -369,7 +369,7 @@ https://lfujiproqx2.sw-cdnstream.com/hls2/01/02118/axa6i7oxfodn_,n,h,.urlset/ind
 https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02900/bf4wlc7qyawy_n/index-v1-a1.m3u8?t=noQIuietM-Z1a0mqg-4guv6PP3s5nAH-gqfNv5Vs-qs&s=1708843333&e=129600&f=14502413&srv=flazeshbhkve&i=0.4&sp=500&p1=flazeshbhkve&p2=flazeshbhkve&asn=263073
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",LOBO DE WALL STREET
-https://no6ojcmmspit.enaak-cdn.com/hls2/01/00174/216rgdva5j3t_l/index-v1-a1.m3u8?t=ChGdFDpYiPbagT84hcfP4L1ChNbYBuUWWErikZFyAZ8&s=1708843467&e=129600&f=872333&srv=j6l2fzrv73fm&i=0.4&sp=1500&p1=j6l2fzrv73fm&p2=j6l2fzrv73fm&asn=263073
+https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2024/03/06/SportsCenter_SportsCenter_20240306_1709728231021/ctr-all-complete.m3u8?v=1&hash=02b2dfea9d15ca9a2996351912abbc75c480360f
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",ADÃO NEGRO 
 https://n7dcw2svfzf7.enaak-cdn.com/hls2/01/00113/prd79h97c4wb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=QmtlcA7WQwwECXNriQ0uHN5Ju1k-Vep8ofjhvF2bzUA&s=1708844357&e=129600&f=565069&srv=rm7jzcuitghm&i=0.4&sp=1500&p1=rm7jzcuitghm&p2=rm7jzcuitghm&asn=263073

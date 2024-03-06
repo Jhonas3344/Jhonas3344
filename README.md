@@ -390,6 +390,5 @@ EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58G
 https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/00174/mh40jjruxrl2_l/index-v1-a1.m3u8?t=TIBnDTePIC-lc_7nSMoLjmx6-rVx9Fc-pWV_ZMP9esc&s=1708845389&e=129600&f=870186&srv=zsj58h0kleij&i=0.4&sp=1500&p1=zsj58h0kleij&p2=zsj58h0kleij&asn=263073
 
 EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="FILMES CRIMES ", HORA DO RUSH
-https://lqas6jwl9y0x.enaak-cdn.com/hls2/01/00174/83drl9ebtz5j_l/index-v1-a1.m3u8?t=eEPABP_LshCavrilATCcE6jjrzJAbgElTwhqB9nwI8U&s=1708845868&e=129600&f=870787&srv=ejthjloje4on&i=0.4&sp=1500&p1=ejthjloje4on&p2=ejthjloje4on&asn=263073
-
+https://vod-ftc-sa-east-1.media.starott.com/ps01/disney/1eefbbb8-1e27-43c3-ac19-856e6ef84e7b/r/composite_3000k_CENC_CTR_FHD_SDR_d1ef393d-07a8-4f01-a92e-46a626bd9c15_ec00693c-6973-4632-8a9c-9fe67843bb7f.m3u8
 

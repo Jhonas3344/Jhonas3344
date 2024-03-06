@@ -381,7 +381,7 @@ https://togtbtzsk9xf.enaak-cdn.com/hls2/01/00171/a89zutk99aiv_,l,n,h,.urlset/ind
 https://hozzcpxvnjk2.enaak-cdn.com/hls2/01/00173/pjizsvr57hpi_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kRyu0K0FISEo3wKi93z-HABbz09DQChiuj8d98z8Tvs&s=1708844891&e=129600&f=868661&srv=o2hmgl5efkfx&i=0.4&sp=1500&p1=o2hmgl5efkfx&p2=o2hmgl5efkfx&asn=263073
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfbnEVFKS26YHLuuckP0i58GPlo.jpg" group-title="FILMES CRIMES ",NINJA ASSASSINO 
-https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02599/bzoxftrur25s_n/index-v1-a1.m3u8?t=FsHDMYLQrjumYSw_7KbluCgJrTaXz12Gg9ig92XxuIQ&s=1708845121&e=129600&f=12995872&srv=n43sbuy6pztg&i=0.4&sp=500&p1=n43sbuy6pztg&p2=n43sbuy6pztg&asn=263073
+https://vod-ftc-sa-east-1.media.starott.com/ps01/disney/1eefbbb8-1e27-43c3-ac19-856e6ef84e7b/r/composite_3000k_CENC_CTR_FHD_SDR_d1ef393d-07a8-4f01-a92e-46a626bd9c15_ec00693c-6973-4632-8a9c-9fe67843bb7f.m3u8
 
 #EXTINF:-1 tvg-logo="
 https://image.tmdb.org/t/p/original/AhmIl2mWpjhbflHx2MSxaZbUVIJ.jpg" group-title="FILMES CRIMES ",O LUTADOR 2
